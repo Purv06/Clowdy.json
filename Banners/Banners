@@ -1,1 +1,26 @@
-1
+[
+{
+    "link": "https://play.google.com/store/apps/details?id=iconic.zeffi.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/Clowdy.json/main/Banners/iconic.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=radiance.zeffi.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/Clowdy.json/main/Banners/Radiance.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=clowdy.zeffi.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/Clowdy.json/main/Banners/Clowdy.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=pastelui.zeffi.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/Clowdy.json/main/Banners/Pastel.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=minimal.zeffi.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/Clowdy.json/main/Banners/Minimal.png"
+}
+]
